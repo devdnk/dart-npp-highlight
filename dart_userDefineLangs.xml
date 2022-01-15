@@ -1,4 +1,4 @@
-<NotepadPlus>
+<NotepadPlus> 
     <UserLang name="dart" ext="dart" udlVersion="2.1">
         <Settings>
             <Global caseIgnored="no" allowFoldOfComments="no" foldCompact="yes" forcePureLC="0" decimalSeparator="0" />
