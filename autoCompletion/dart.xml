@@ -55,11 +55,16 @@
 		<KeyWord name="deferred" />
 		<KeyWord name="hide" />
 		<KeyWord name="set" />
+		<KeyWord name="Set" />
 		<KeyWord name="do" />
 		<KeyWord name="if" />
 		<KeyWord name="show" />
 		<KeyWord name="dynamic" />
 		<KeyWord name="implements" />
 		<KeyWord name="static" />
+		<KeyWord name="Stream" />
+		<KeyWord name="List" />
+		<KeyWord name="then" />
+		<KeyWord name="catchError" />
 	</AutoComplete>	
 </NotepadPlus>
